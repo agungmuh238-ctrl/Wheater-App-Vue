@@ -1,0 +1,8 @@
+Weather App
+
+Weather app digunakan untuk memantau cuaca pada suatu wilayah, baik sekarang, selama 24 jam sebelumnya atau yang akan datang. Weather app berfungsi baik di komputer/laptop maupun mobile. tapi weather app hanya berfungsi di perangkat lokal saja.
+untuk menggunakan weather app, kamu bisa mendownload file yang diperlukan di repo ini.
+
+software yang digunakan
+
+saya menggunakan vue.js sebagai pondasi web app nya. kemudian untuk cuaca realtimenya, saya menggunakan API Open-mateo untuk mengambil data cuaca secara realtime.
